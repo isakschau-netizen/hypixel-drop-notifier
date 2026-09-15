@@ -1,0 +1,3 @@
+# Windows scripts need CRLF line endings, including in GitHub's "Download ZIP".
+*.bat text eol=crlf
+*.vbs text eol=crlf
